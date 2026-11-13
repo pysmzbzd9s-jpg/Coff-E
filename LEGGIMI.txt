@@ -1,0 +1,31 @@
+COFFE-E · app web (prototipo)
+
+CONTENUTO
+index.html            l'app completa (font incluso, funziona anche senza internet)
+manifest.webmanifest, sw.js, icon-*.png, apple-touch-icon.png, favicon-32.png
+                      servono per installarla sul telefono come un'app (icona sulla schermata Home)
+
+COME METTERLA ONLINE (serve per il QR)
+Opzione A - GitHub Pages (gratuita, indirizzo stabile)
+ 1. Crea un account su github.com e un repository pubblico, per esempio "coffe-e".
+ 2. Carica tutti i file di questa cartella nella radice del repository (Add file > Upload files).
+ 3. Settings > Pages > Deploy from a branch > branch "main", cartella "/ (root)" > Save.
+ 4. Dopo qualche minuto (fino a 10) l'app è su https://TUO-NOME-UTENTE.github.io/coffe-e/
+
+Opzione B - Netlify (trascini la cartella)
+ 1. Crea un account gratuito su netlify.com ed entra.
+ 2. Trascina l'intera cartella nella pagina di caricamento manuale (Netlify Drop).
+ 3. Se non accedi con un account e non "rivendichi" il sito, dopo poco scade.
+
+SUL TELEFONO
+ iPhone (Safari): Condividi > Aggiungi alla schermata Home.
+ Android (Chrome): menu a tre puntini > Installa app / Aggiungi a schermata Home.
+ Aperta dall'icona, l'app va a schermo intero senza barra del browser.
+
+QR
+ Quando hai l'indirizzo definitivo, genera il QR da quello (meglio se corto) e stampa una prova:
+ provalo con un iPhone e un Android prima di mandare il book in stampa.
+ Scrivi anche l'indirizzo in chiaro sotto il QR.
+
+NOTA
+ Nomi, punti, prezzi, stabilimenti e ritratti sono illustrazioni di esempio.
